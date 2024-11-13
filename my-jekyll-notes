@@ -1,0 +1,18 @@
+
+# Great blog on how to install, config the minimal mistakes theme
+https://zenglix.github.io/personal_website/
+
+
+
+Customize the files:
+After you pull all the stuff, you get a version of minimal mistakes website on your computer. We want to keep the framework, remove the contents and put our stuff in.
+
+You can safely delete folders /docs and /test.
+replace /_data/navigation.yml, /_data/ui-text.yml and /_config.yml with your own version.
+move your _pages and _posts folder to here
+Push your customized version online: Create the username.github.io repository as mensioned previously.
+
+
+# Hot keys
+Command + F
+Command + SHIFT + F
