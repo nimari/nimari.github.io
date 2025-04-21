@@ -2,8 +2,6 @@
 layout: post
 title: "The Road to Master Cyber Security: Your Essential Guide"
 date: 2025-03-01 08:00:00
-categories: "cyber-security learning-guide"
-tags: [cyber-security, beginners, learning-path, certifications]
 ---
 
 # The Road to Master Cyber Security: Your Essential Guide
