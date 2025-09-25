@@ -1,0 +1,6 @@
+---
+title: "Security News"
+layout: categories
+icon: fas fa-stream
+order: 6
+---
